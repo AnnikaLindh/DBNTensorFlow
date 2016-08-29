@@ -1,8 +1,12 @@
 # DBNTensorFlow - a Deep Belief Network implementation with TensorFlow
+Copyright (c) 2016 Annika Lindh
+Licensed under [GPLv3](http://www.gnu.org/licenses/), see LICENSE.txt.
 
 This repository contains unsupervised implementations of a Restriced Boltzmann Machine and a Deep Belief Network,
- including unsupervised fine-tuning of a Deep Belief Network. The implementation uses Python 2.7 and
- the [TensorFlow](http://www.tensorflow.org) framework, which is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+ including unsupervised fine-tuning of a Deep Belief Network.
+
+The implementation uses Python 2.7 and
+ the [TensorFlow](http://www.tensorflow.org) framework.
  The code started out from Gabriele Angeletti's [Deep-Learning-TensorFlow](https://github.com/blackecho/Deep-Learning-TensorFlow/) project which has implementations
  for a bunch of different Deep Learning techniques, so have a look at his GitHub repo!
 

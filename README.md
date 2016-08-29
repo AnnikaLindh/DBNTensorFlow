@@ -1,5 +1,6 @@
 # DBNTensorFlow - a Deep Belief Network implementation with TensorFlow
 Copyright (c) 2016 Annika Lindh
+
 Licensed under [GPLv3](http://www.gnu.org/licenses/), see LICENSE.txt.
 
 This repository contains unsupervised implementations of a Restriced Boltzmann Machine and a Deep Belief Network,
